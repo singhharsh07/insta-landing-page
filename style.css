@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.screen-container{
+    min-height: 200vh;
+    max-width: 300vh;
+    padding: 20px;
+    background-color: antiquewhite;
+    font-family: "Popins",sans-serif;
+}
+.box-container{
+    height: 60vh;
+    width: 60vh;
+    margin-left: 65vh;
+    /* margin-top: 15vh; */
+    background-color: white;
+    border: 1px solid black;    
+    font-family: "Popins",sans-serif;
+}
+#img1{
+    height: 60px;
+    width: 250px;
+    /* justify-content: center;
+    align-items: center; */
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#input1{
+    margin-top: 20px;
+    margin-left: 55px;
+    height: 30px;
+    width: 250px;
+    border-bottom: black;
+    background-color: white;
+}
+#login{
+    margin-top: 20px;
+    margin-left: 55px;
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    border-bottom: black;
+    background-color: white;
+    background-color: rgb(51, 123, 255);
+}
+#hr1{
+    margin-top: 20px;
+    width: 100px;
+    margin-left: 55px;
+}
+#hr2{
+    margin-top: -10px;
+    width: 100px;
+    margin-left: 200px;
+}
+#or{
+    margin-left: 170px;
+    margin-top: -10px;
+}
+#btn{
+    margin-top: 40px;
+    border: none;
+    background-color: white;
+    font-size: 14px;
+    /* margin-left: 50px; */
+    margin-bottom: 5px;
+}
+#a1{
+    font-size: 12px;
+    margin-left: 130px;
+}
+.box2-container{
+    height: 10vh;
+    width: 60vh;
+    background-color: white;
+    border: 1px solid black;  
+    margin-top: 15px;
+    margin-left: 65vh;
+}
+#p1{
+    margin-top: 23px;
+    margin-left: 12vh;
+}
+#signup{
+    text-decoration: none;  
+    
+}
+#p2{
+    margin-top: 20px;
+    margin-left: 87vh;
+}
+.fa-facebook {
+    color: #3b5998; /* Facebook Blue */
+    font-size: 24px; /* Size of the icon */
+    margin-left: 100px;
+
+}
+#logo1{
+    height: 100px;
+    width: 100px;
+    margin-left: 75vh;
+    /* margin-top: 20vh; */
+}
+.logo2-container{
+    height: 70px;
+    width: 80px;
+    margin-top: -13vh;
+    margin-left: 92vh;
+}
+#logo2{
+    height: 60px;
+    width: 150px;
+    /* margin-top: 70vh; */
+}
+#logo1:hover{
+    cursor: pointer;
+}
+#logo2:hover{
+    cursor: pointer;
+}
+
